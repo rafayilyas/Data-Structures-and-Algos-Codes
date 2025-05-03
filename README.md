@@ -1,1 +1,2 @@
 # Data-Structures-and-Algos-Codes
+This program is a simple implementation of a core Data Structure/Algorithm in C++. It demonstrates the fundamental operations and logic related to this specific DSA concept, such as insertion, deletion, traversal, or searching. The code is written for educational purposes and can be used as a base for building more complex applications or preparing for coding interviews and exams
